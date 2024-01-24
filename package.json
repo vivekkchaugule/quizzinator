@@ -1,0 +1,14 @@
+{
+  "name": "quizzinator",
+  "version": "1.0.0",
+  "description": "quizzinator is a command line utility that enables users to conduct self-test based from the reading material (PDF, HTML, Doc, README.md) provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
